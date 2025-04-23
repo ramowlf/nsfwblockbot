@@ -1,1 +1,3 @@
 # nsfwblockbot
+
+kurulum için @TurkUserBotKanali
